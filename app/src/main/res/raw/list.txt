@@ -84,6 +84,7 @@ WPS PDF,cn.wps.pdf,
 WPS PDF Fill & Sign,cn.wps.pdf.fillsign,
 WPS Premium Subscription,cn.wps.moffice_premium,
 
+
 // Only Regex Here
 mi,com.mi//.*
 xiaomi,com.xiaomi.*
