@@ -4,12 +4,12 @@
 AppLock,com.domobile.applockwatcher,com.sp.protector.free,AppLock - Fingerprint(korean)
 Cam Scanner,com.intsig.camscanner,com.microsoft.office.officelens,Microsoft Office Lens
 Mi Fit,com.xiaomi.hm.health,com.mc.miband1,Notify & Fitness for Mi Band
+Ola,com.olacabs.customer,com.uber,Uber
 SHAREit,com.lenovo.anyshare.gps,com.estmob.android.sendanywhere,Send Anywhere
 UCBrowser,com.UCMobile.intl,com.android.chrome,Google Chrome: Fast & Secure
 UCBrowser Mini,com.uc.browser.en,org.mozilla.rocket,Firefox Lite
 UC Browser Turbo,com.ucturbo,com.android.chrome,Google Chrome: Fast & Secure
 Xender,cn.xender,com.estmob.android.sendanywhere,Send Anywhere
-Ola,com.olacabs.customer,com.uber,Uber
 
 
 // App Name , APP PACKAGE NAME
