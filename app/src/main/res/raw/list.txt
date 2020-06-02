@@ -127,3 +127,5 @@ ZAKZAK Lite,com.zakzak.lite.chat,
 mi,com.mi//.*
 xiaomi,com.xiaomi.*
 miui,com.miui.*
+com.lbe.parallel*
+com.parallel.space.*
