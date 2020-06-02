@@ -83,7 +83,7 @@ WPS Office Extra Goodies,cn.wps.moffice_extra,
 WPS PDF,cn.wps.pdf,
 WPS PDF Fill & Sign,cn.wps.pdf.fillsign,
 WPS Premium Subscription,cn.wps.moffice_premium,
-
+//test
 
 // Only Regex Here
 mi,com.mi//.*
