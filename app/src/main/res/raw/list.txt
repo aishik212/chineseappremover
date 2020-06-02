@@ -9,6 +9,8 @@ UCBrowser,com.UCMobile.intl,com.android.chrome,Google Chrome: Fast & Secure
 UCBrowser Mini,com.uc.browser.en,org.mozilla.rocket,Firefox Lite
 UC Browser Turbo,com.ucturbo,com.android.chrome,Google Chrome: Fast & Secure
 Xender,cn.xender,com.estmob.android.sendanywhere,Send Anywhere
+Ola,com.olacabs.customer,com.uber,Uber
+
 
 // App Name , APP PACKAGE NAME
 April - Camera360,us.pinguo.april_collage,
